@@ -15,6 +15,10 @@ chapters:
   pro_network: Python Software Foundation Meetup Pro Network
   twitter: PyLadiesAMS
   website: amsterdam
+- correo electronico :sandiegoalcala@pyladies.com  
+  ubicación: {latitud:19.4519 , longitud:-99.6194}
+  nombre: San Diego Alcala, Temoaya Estado de Mexico. 
+  organizador :Hermelinda Victoria Filomeno y Jose David Lopez
 - email: tnr@pyladies.com
   image: pyladies_tnr.png
   location: {latitude: -18.9333, longitude: 47.5167}
